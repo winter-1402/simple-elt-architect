@@ -61,7 +61,7 @@ spoon.bat
 
 **Spoon** là giao diện GUI để tạo/chỉnh sửa ETL jobs.
 
-### Bước 5: Chạy ETL Job từ Command Line
+### Hoặc chạy ETL Job từ Command Line
 
 ```bash
 # Windows
